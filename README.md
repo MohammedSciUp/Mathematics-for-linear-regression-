@@ -1,2 +1,2 @@
-# Mathematics-for-linear-regression-
-Mathematics for linear regression 
+# Mathematics-for-machine-learning-
+Mathematics for machine learning 
